@@ -1,0 +1,16 @@
+.banner {
+	background-image: url(../../images/skydive.jpg);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+
+
+}
+
+.banner h1 {
+	font-size: 32px;
+	text-align: center;
+	margin: 20px;
+}
